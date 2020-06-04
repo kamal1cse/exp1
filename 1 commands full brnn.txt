@@ -1,4 +1,4 @@
-
+new
 
 cd D:\MT\OpenNMT(pytorch1.2)\OpenNMT-py-master
 
